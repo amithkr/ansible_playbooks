@@ -1,3 +1,7 @@
+# For installing ansible in yum
+
+sudo yum install ansible
+
 # FOR installing ansible in ubuntu
 sudo apt-get update 
 sudo apt-get install software-properties-common 
